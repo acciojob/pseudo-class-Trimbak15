@@ -1,13 +1,13 @@
 .para:before {
     content: 'Before Element';
-    color: rgb(0, 0, 0);
+    color: red;
     font-size: 20px;
     margin-right: 5px;
 }
 
 .para:after {
     content: 'After Element';
-    color: rgb(0, 0, 0);
+    color: red;
     font-size: 20px;
     margin-left: 5px;
 }
