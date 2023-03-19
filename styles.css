@@ -1,11 +1,11 @@
-.para::before {
+.para:before {
     content: 'Before Element';
     color: rgb(255, 0, 0);
     font-size: 20px;
     margin-right: 5px;
 }
 
-.para::after {
+.para:after {
     content: 'After Element';
     color: rgb(255, 0, 0);
     font-size: 20px;
